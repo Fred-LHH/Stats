@@ -1,4 +1,4 @@
-# DeepLearning
+# Machine Learning
 Deeplearning practice project:
 
 Finished:
